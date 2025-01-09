@@ -1,10 +1,22 @@
 你好，很高兴认识你。
 
-毕业后的几年曾作为 Web 全栈工程师供职于 [@alibaba](https://github.com/alibaba/)，现在则是一名 Rust 客户端工程师（供职于 [@tingyutech](https://github.com/tingyutech/)）。
+毕业后的几年曾作为 Web 全栈工程师供职于 [@alibaba](https://github.com/alibaba/)，现在则是一名 Rust 工程师（供职于 [@tingyutech](https://github.com/tingyutech/)）。
 
 主要领域为音视频开发、图形渲染、云游戏等。
 
 这里也托管了我的许多 side projects。
+
+----
+
+Hello, nice to meet you!
+
+I graduated and initially worked as a Web full-stack engineer at [@alibaba](https://github.com/alibaba/). Currently, I’m a Rust engineer at [@tingyutech](https://github.com/tingyutech/).
+
+My main areas of focus are audio/video development, graphics rendering, and cloud gaming.
+
+I also host several of my side projects here.
+
+----
 
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
