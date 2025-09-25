@@ -30,15 +30,3 @@ I also host several of my side projects here.
 
 [![What I have a taste of](https://skillicons.dev/icons?i=wordpress,autocad,sketchup,figma,octave,tensorflow,ai,ps,pr,arduino,raspberrypi,supabase,sentry,tailwind&perline=12)](https://skillicons.dev)
 
-----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Icemic&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Icemic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<picture alt="Snake animation">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icemic/Icemic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icemic/Icemic/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Icemic/Icemic/output/github-snake.svg" />
-</picture>
