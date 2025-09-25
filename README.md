@@ -18,15 +18,19 @@ I also host several of my side projects here.
 
 ----
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-</div>
+### I am using / ever used
+
+[![What I am using or ever used](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows,macos,,git,github,gitlab,docker,cloudflare,nginx,mysql,postgres,sqlite,mongodb,prisma,redis,atom,sublime,vscode,visualstudio,clion&perline=12)](https://skillicons.dev)
+
+### Skilled at
+
+[![What I am skilled at](https://skillicons.dev/icons?i=rust,wasm,html,css,less,sass,js,ts,react,md,c,cpp,qt,fortran,electron,nodejs,express,nestjs,regex,npm,yarn,vite,webpack&perline=12)](https://skillicons.dev)
+
+### Have a taste of
+
+[![What I have a taste of](https://skillicons.dev/icons?i=wordpress,autocad,sketchup,figma,octave,tensorflow,ai,ps,pr,arduino,raspberrypi,supabase,sentry,tailwind&perline=12)](https://skillicons.dev)
+
+----
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Icemic&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
