@@ -26,7 +26,7 @@ I also host several of my side projects here.
 
 [![What I am skilled at](https://skillicons.dev/icons?i=rust,wasm,html,css,less,sass,js,ts,react,md,c,cpp,qt,fortran,electron,nodejs,express,nestjs,regex,npm,yarn,vite,webpack&perline=12)](https://skillicons.dev)
 
-### Have a taste of
+### Moreover...
 
 [![What I have a taste of](https://skillicons.dev/icons?i=wordpress,autocad,sketchup,figma,octave,tensorflow,ai,ps,pr,arduino,raspberrypi,supabase,sentry,tailwind&perline=12)](https://skillicons.dev)
 
